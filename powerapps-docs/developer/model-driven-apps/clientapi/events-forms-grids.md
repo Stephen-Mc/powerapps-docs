@@ -30,7 +30,7 @@ Use the **Event Handlers** section of the **Form Properties** dialog box to asso
 
 ## Add or remove event handler function to event using code
 
-Using the following methods to add and remove event handler for events that cannot be associated through UI:
+Use the following methods to add and remove event handlers for events that cannot be associated through the UI:
 
 |Events |Event handler|
 |-------|-------|
